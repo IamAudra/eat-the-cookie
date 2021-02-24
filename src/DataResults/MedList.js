@@ -1,4 +1,4 @@
-export const MedicationResults = () => (
+export const MedList = () => (
 
     <div className="">
         Boilerplate of Medication site
